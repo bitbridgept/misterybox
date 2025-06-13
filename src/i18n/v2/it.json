@@ -1,0 +1,25 @@
+{
+  "openBox": {
+    "title": "Apri La Tua Mystery Box",
+    "enterCode": "Inserisci il Codice della Box",
+    "codePlaceholder": "Inserisci qui il codice della tua box",
+    "openButton": "Apri Box",
+    "invalidCode": "Codice non valido. Verifica e riprova.",
+    "loading": "Apertura della box in corso...",
+    "error": "Si è verificato un errore durante l'apertura della box",
+    "success": "Congratulazioni! Hai vinto:",
+    "tryAgain": "Prova Un'Altra Box",
+    "wheel": {
+      "spinning": "La ruota sta girando...",
+      "ready": "Preparati per il tuo premio!"
+    },
+    "howToGet": {
+      "title": "Come ottenere un codice:",
+      "steps": {
+        "1": "Acquista una delle box disponibili",
+        "2": "Ricevi il codice automaticamente dopo l'acquisto",
+        "3": "Contatta il nostro supporto su Telegram per assistenza"
+      }
+    }
+  }
+}

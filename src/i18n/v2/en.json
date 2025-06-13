@@ -1,0 +1,25 @@
+{
+  "openBox": {
+    "title": "Open Your Mystery Box",
+    "enterCode": "Enter Your Box Code",
+    "codePlaceholder": "Enter your box code here",
+    "openButton": "Open Box",
+    "invalidCode": "Invalid code. Please check and try again.",
+    "loading": "Opening your box...",
+    "error": "An error occurred while opening your box",
+    "success": "Congratulations! You won:",
+    "tryAgain": "Try Another Box",
+    "wheel": {
+      "spinning": "Spinning the wheel...",
+      "ready": "Get ready for your prize!"
+    },
+    "howToGet": {
+      "title": "How to get a code:",
+      "steps": {
+        "1": "Purchase one of the available boxes",
+        "2": "Receive the code automatically after purchase",
+        "3": "Contact our Telegram support for assistance"
+      }
+    }
+  }
+}

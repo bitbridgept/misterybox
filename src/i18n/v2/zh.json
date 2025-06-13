@@ -1,0 +1,25 @@
+{
+  "openBox": {
+    "title": "打开您的神秘盒子",
+    "enterCode": "输入盒子代码",
+    "codePlaceholder": "在此输入您的盒子代码",
+    "openButton": "打开盒子",
+    "invalidCode": "无效代码。请检查后重试。",
+    "loading": "正在打开盒子...",
+    "error": "打开盒子时发生错误",
+    "success": "恭喜！您赢得了：",
+    "tryAgain": "尝试另一个盒子",
+    "wheel": {
+      "spinning": "轮盘旋转中...",
+      "ready": "准备领取您的奖品！"
+    },
+    "howToGet": {
+      "title": "如何获取代码：",
+      "steps": {
+        "1": "购买一个可用的盒子",
+        "2": "购买后自动接收代码",
+        "3": "联系我们的Telegram支持获取帮助"
+      }
+    }
+  }
+}

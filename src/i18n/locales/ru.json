@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "Mystery Box"
+  },
+  "navigation": {
+    "basic": "Базовая",
+    "premium": "Премиум"
+  },
+  "hero": {
+    "title": "Откройте для себя магию Mystery Box",
+    "subtitle": "Каждая коробка - это уникальный сюрприз, полный эксклюзивных предметов, специально подобранных для вас",
+    "openBox": "Открыть Коробку"
+  },
+  "openBox": {
+    "title": "Откройте Свою Mystery Box",
+    "enterCode": "Введите Код Бокса",
+    "codePlaceholder": "Введите код вашего бокса здесь",
+    "openButton": "Открыть Бокс",
+    "invalidCode": "Неверный код. Пожалуйста, проверьте и попробуйте снова.",
+    "loading": "Открываем ваш бокс...",
+    "error": "Произошла ошибка при открытии бокса",
+    "success": "Поздравляем! Вы выиграли:",
+    "tryAgain": "Попробовать Другой Бокс",
+    "wheel": {
+      "spinning": "Колесо крутится...",
+      "ready": "Приготовьтесь к призу!"
+    },
+    "howToGet": {
+      "title": "Как получить код:",
+      "steps": {
+        "1": "Купите один из доступных боксов",
+        "2": "Получите код автоматически после покупки",
+        "3": "Свяжитесь с нашей поддержкой в Telegram для помощи"
+      }
+    }
+  },
+  "boxes": {
+    "basic": {
+      "name": "Базовая Mystery Box",
+      "description": "Удивительная подборка предметов-сюрпризов"
+    },
+    "premium": {
+      "name": "Премиум Mystery Box",
+      "description": "Наша лучшая подборка премиум предметов"
+    },
+    "buyNow": "Купить Сейчас",
+    "telegramPlaceholder": "@ваш_телеграм"
+  },
+  "dailyPool": {
+    "title": "Ежедневный пул 1000€",
+    "subtitle": "Присоединяйтесь сейчас и участвуйте в розыгрыше ежедневных призов. Чем больше коробок вы откроете, тем выше ваши шансы!",
+    "chances": "Шансы увеличиваются с каждой открытой коробкой",
+    "topPlayers": "Топ 5 Игроков",
+    "spent": "потрачено"
+  },
+  "prizes": {
+    "title": "Возможные Призы",
+    "warning": "Вероятности могут варьироваться. Ультра-редкие призы имеют очень низкие шансы на выпадение.",
+    "reveal": {
+      "openAnother": "Открыть Снова",
+      "share": "Поделиться в Telegram",
+      "obtainPrize": "Получить Приз"
+    },
+    "basic": {
+      "iphone": {
+        "name": "iPhone 16",
+        "description": "Ультра-редкий приз",
+        "value": "999€"
+      },
+      "steamKey": {
+        "name": "Случайный ключ",
+        "description": "Случайный ключ Steam (стоимость от 5€ до 50€)",
+        "value": "5-50€"
+      },
+      "serviceVoucher": {
+        "name": "Сервисный ваучер",
+        "description": "Ваучер на сумму 10€",
+        "value": "10€"
+      },
+      "gameVoucher": {
+        "name": "Ваучер Steam/PlayStation/Xbox/Nintendo",
+        "description": "5€ в кредитах для вашей любимой платформы",
+        "value": "5€"
+      },
+      "giftCard": {
+        "name": "Подарочная карта",
+        "description": "5€ для Google Play или App Store",
+        "value": "5€"
+      },
+      "freeBox": {
+        "name": "Базовая Mystery Box",
+        "description": "1 бесплатное открытие",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Без приза",
+        "description": "Удачи в следующий раз!",
+        "value": "0€"
+      }
+    },
+    "premium": {
+      "iphone": {
+        "name": "iPhone 16 Pro Max",
+        "description": "Ультра-редкий приз",
+        "value": "1299€"
+      },
+      "game": {
+        "name": "AAA Игра",
+        "description": "Случайный ключ премиум игры (стоимость от 20€ до 80€)",
+        "value": "20-80€"
+      },
+      "subscription": {
+        "name": "Премиум Подписка",
+        "description": "3 месяца Game Pass, Spotify или Nitro",
+        "value": "30€"
+      },
+      "voucher": {
+        "name": "Ваучер 10€",
+        "description": "Ваучер на сумму 10€",
+        "value": "10€"
+      },
+      "freeBox": {
+        "name": "Базовая Mystery Box",
+        "description": "Бесплатное открытие",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Без приза",
+        "description": "Удачи в следующий раз!",
+        "value": "0€"
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Mystery Box. Все права защищены."
+  }
+}

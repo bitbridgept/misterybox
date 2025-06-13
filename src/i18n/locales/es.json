@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "Mystery Box"
+  },
+  "navigation": {
+    "basic": "Básica",
+    "premium": "Premium"
+  },
+  "hero": {
+    "title": "Descubre la Magia de las Mystery Boxes",
+    "subtitle": "Cada caja es una sorpresa única llena de artículos exclusivos seleccionados especialmente para ti",
+    "openBox": "Abrir Caja"
+  },
+  "openBox": {
+    "title": "Abre Tu Mystery Box",
+    "enterCode": "Ingresa el Código de la Box",
+    "codePlaceholder": "Ingresa el código de tu box aquí",
+    "openButton": "Abrir Box",
+    "invalidCode": "Código inválido. Por favor, verifica e intenta nuevamente.",
+    "loading": "Abriendo tu box...",
+    "error": "Ocurrió un error al abrir tu box",
+    "success": "¡Felicitaciones! Ganaste:",
+    "tryAgain": "Intentar Otra Box",
+    "wheel": {
+      "spinning": "Girando la ruleta...",
+      "ready": "¡Prepárate para tu premio!"
+    },
+    "howToGet": {
+      "title": "Cómo obtener un código:",
+      "steps": {
+        "1": "Compra una de las boxes disponibles",
+        "2": "Recibe el código automáticamente después de la compra",
+        "3": "Contacta a nuestro soporte en Telegram para asistencia"
+      }
+    }
+  },
+  "boxes": {
+    "basic": {
+      "name": "Mystery Box Básica",
+      "description": "Una increíble selección de artículos sorpresa"
+    },
+    "premium": {
+      "name": "Mystery Box Premium",
+      "description": "Nuestra mejor selección de artículos premium"
+    },
+    "buyNow": "Comprar Ahora",
+    "telegramPlaceholder": "@tu_telegram"
+  },
+  "dailyPool": {
+    "title": "Pool Diario de 1000€",
+    "subtitle": "Participa ahora y compite por premios diarios. ¡Cuantas más cajas abras, mayores serán tus posibilidades!",
+    "chances": "Las probabilidades aumentan con cada caja abierta",
+    "topPlayers": "Top 5 Jugadores",
+    "spent": "gastados"
+  },
+  "prizes": {
+    "title": "Premios Posibles",
+    "warning": "Las probabilidades pueden variar. Los premios ultra raros tienen muy pocas posibilidades de ser sorteados.",
+    "reveal": {
+      "openAnother": "Abrir Otra Vez",
+      "share": "Compartir en Telegram",
+      "obtainPrize": "Obtener Premio"
+    },
+    "basic": {
+      "iphone": {
+        "name": "iPhone 16",
+        "description": "Premio ultra raro ",
+        "value": "999€"
+      },
+      "steamKey": {
+        "name": "Llave sorpresa",
+        "description": "Llave aleatoria de Steam (valor entre 5€ y 50€)",
+        "value": "5-50€"
+      },
+      "serviceVoucher": {
+        "name": "Vale de Servicio",
+        "description": "Vale por valor de 10€",
+        "value": "10€"
+      },
+      "gameVoucher": {
+        "name": "Vale Steam/PlayStation/Xbox/Nintendo",
+        "description": "5€ en créditos para tu plataforma favorita",
+        "value": "5€"
+      },
+      "giftCard": {
+        "name": "Tarjeta regalo",
+        "description": "5€ para Google Play o App Store",
+        "value": "5€"
+      },
+      "freeBox": {
+        "name": "Mystery Box Basic",
+        "description": "1 tirada gratis",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Sin premio",
+        "description": "¡Mejor suerte la próxima vez!",
+        "value": "0€"
+      }
+    },
+    "premium": {
+      "iphone": {
+        "name": "iPhone 16 Pro Max",
+        "description": "Premio ultra raro",
+        "value": "1299€"
+      },
+      "game": {
+        "name": "Juego AAA",
+        "description": "Llave digital aleatoria de juego premium (valor entre 20€ y 80€)",
+        "value": "20-80€"
+      },
+      "subscription": {
+        "name": "Suscripción Premium",
+        "description": "3 meses de Game Pass, Spotify o Nitro",
+        "value": "30€"
+      },
+      "voucher": {
+        "name": "Vale 10€",
+        "description": "Vale por valor de 10€",
+        "value": "10€"
+      },
+      "freeBox": {
+        "name": "Mystery Box Basic",
+        "description": "Tirada gratis",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Sin premio",
+        "description": "¡Mejor suerte la próxima vez!",
+        "value": "0€"
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Mystery Box. Todos los derechos reservados."
+  }
+}

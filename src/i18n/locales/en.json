@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "Mystery Box"
+  },
+  "navigation": {
+    "basic": "Basic",
+    "premium": "Premium"
+  },
+  "hero": {
+    "title": "Discover the Magic of Mystery Boxes",
+    "subtitle": "Each box is a unique surprise full of exclusive items specially selected for you",
+    "openBox": "Open Box"
+  },
+  "openBox": {
+    "title": "Open Your Mystery Box",
+    "enterCode": "Enter Your Box Code",
+    "codePlaceholder": "Enter your box code here",
+    "openButton": "Open Box",
+    "invalidCode": "Invalid code. Please check and try again.",
+    "loading": "Opening your box...",
+    "error": "An error occurred while opening your box",
+    "success": "Congratulations! You won:",
+    "tryAgain": "Try Another Box",
+    "wheel": {
+      "spinning": "Spinning the wheel...",
+      "ready": "Get ready for your prize!"
+    },
+    "howToGet": {
+      "title": "How to get a code:",
+      "steps": {
+        "1": "Purchase one of the available boxes",
+        "2": "Receive the code automatically after purchase",
+        "3": "Contact our Telegram support for assistance"
+      }
+    }
+  },
+  "boxes": {
+    "basic": {
+      "name": "Basic Mystery Box",
+      "description": "An amazing selection of surprise items"
+    },
+    "premium": {
+      "name": "Premium Mystery Box",
+      "description": "Our best selection of premium items"
+    },
+    "buyNow": "Buy Now",
+    "telegramPlaceholder": "@your_telegram"
+  },
+  "dailyPool": {
+    "title": "€1000 Daily Pool",
+    "subtitle": "Join now and compete for daily prizes. The more boxes you open, the higher your chances!",
+    "chances": "Chances increase with each box opened",
+    "topPlayers": "Top 5 Players",
+    "spent": "spent"
+  },
+  "prizes": {
+    "title": "Possible Prizes",
+    "warning": "Probabilities may vary. Ultra-rare prizes have very low chances of being drawn.",
+    "reveal": {
+      "openAnother": "Open Again",
+      "share": "Share on Telegram",
+      "obtainPrize": "Obtain Prize"
+    },
+    "basic": {
+      "iphone": {
+        "name": "iPhone 16",
+        "description": "Ultra-rare prize ",
+        "value": "999€"
+      },
+      "steamKey": {
+        "name": "Mystery Key",
+        "description": "Steam random key (value between €5 and €50)",
+        "value": "5-50€"
+      },
+      "serviceVoucher": {
+        "name": "Service Voucher",
+        "description": "€10 voucher",
+        "value": "10€"
+      },
+      "gameVoucher": {
+        "name": "Steam/PlayStation/Xbox/Nintendo Voucher",
+        "description": "€5 in credits for your favorite platform",
+        "value": "5€"
+      },
+      "giftCard": {
+        "name": "Gift Card",
+        "description": "€5 for Google Play or App Store",
+        "value": "5€"
+      },
+      "freeBox": {
+        "name": "Basic Mystery Box",
+        "description": "1 free roll",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "No Prize",
+        "description": "Better luck next time!",
+        "value": "0€"
+      }
+    },
+    "premium": {
+      "iphone": {
+        "name": "iPhone 16 Pro Max",
+        "description": "Ultra-rare prize",
+        "value": "1299€"
+      },
+      "game": {
+        "name": "AAA Game",
+        "description": "Random premium game key (value between €20 and €80)",
+        "value": "20-80€"
+      },
+      "subscription": {
+        "name": "Premium Subscription",
+        "description": "3 months of Game Pass, Spotify or Nitro",
+        "value": "30€"
+      },
+      "voucher": {
+        "name": "€10 Voucher",
+        "description": "€10 voucher",
+        "value": "10€"
+      },
+      "freeBox": {
+        "name": "Basic Mystery Box",
+        "description": "Free roll",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "No Prize",
+        "description": "Better luck next time!",
+        "value": "0€"
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Mystery Box. All rights reserved."
+  }
+}

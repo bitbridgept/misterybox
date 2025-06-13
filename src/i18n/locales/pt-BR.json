@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "Mystery Box"
+  },
+  "navigation": {
+    "basic": "Básica",
+    "premium": "Premium"
+  },
+  "hero": {
+    "title": "Descubra a Magia das Mystery Boxes",
+    "subtitle": "Cada box é uma surpresa única cheia de itens exclusivos selecionados especialmente para você",
+    "openBox": "Abrir Box"
+  },
+  "openBox": {
+    "title": "Abra Sua Mystery Box",
+    "enterCode": "Digite o Código da Box",
+    "codePlaceholder": "Digite o código da sua box aqui",
+    "openButton": "Abrir Box",
+    "invalidCode": "Código inválido. Por favor, verifique e tente novamente.",
+    "loading": "Abrindo sua box...",
+    "error": "Ocorreu um erro ao abrir sua box",
+    "success": "Parabéns! Você ganhou:",
+    "tryAgain": "Tentar Outra Box",
+    "wheel": {
+      "spinning": "Girando a roleta...",
+      "ready": "Prepare-se para seu prêmio!"
+    },
+    "howToGet": {
+      "title": "Como obter um código:",
+      "steps": {
+        "1": "Compre uma das boxes disponíveis",
+        "2": "Receba o código automaticamente após a compra",
+        "3": "Contate nosso suporte no Telegram para assistência"
+      }
+    }
+  },
+  "boxes": {
+    "basic": {
+      "name": "Mystery Box Básica",
+      "description": "Uma seleção surpresa de itens incríveis"
+    },
+    "premium": {
+      "name": "Mystery Box Premium",
+      "description": "Nossa melhor seleção de itens premium"
+    },
+    "buyNow": "Comprar Agora",
+    "telegramPlaceholder": "@seu_telegram"
+  },
+  "dailyPool": {
+    "title": "Pool Diário de 1000€",
+    "subtitle": "Participe agora e concorra a prêmios diários. Quanto mais boxes você abrir, maiores suas chances!",
+    "chances": "Chances aumentam a cada box aberta",
+    "topPlayers": "Top 5 Jogadores",
+    "spent": "gastos"
+  },
+  "prizes": {
+    "title": "Possíveis Prêmios",
+    "warning": "As probabilidades podem variar. Prêmios ultra raros têm chances muito baixas de serem sorteados.",
+    "reveal": {
+      "openAnother": "Abrir Novamente",
+      "share": "Compartilhar no Telegram",
+      "obtainPrize": "Obter Prêmio"
+    },
+    "basic": {
+      "iphone": {
+        "name": "iPhone 16",
+        "description": "Prêmio ultra raro",
+        "value": "999€"
+      },
+      "steamKey": {
+        "name": "Chave surpresa",
+        "description": "Steam random key (valor entre 5€ e 50€)",
+        "value": "5-50€"
+      },
+      "serviceVoucher": {
+        "name": "Voucher de Serviço",
+        "description": "Voucher no valor de 10€",
+        "value": "10€"
+      },
+      "gameVoucher": {
+        "name": "Voucher Steam/PlayStation/Xbox/Nintendo",
+        "description": "5€ em créditos para sua plataforma favorita",
+        "value": "5€"
+      },
+      "giftCard": {
+        "name": "Cartão-presente",
+        "description": "5€ para Google Play ou App Store",
+        "value": "5€"
+      },
+      "freeBox": {
+        "name": "Mystery Box Basic",
+        "description": "1 nova rolagem grátis",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Sem prêmio",
+        "description": "Mais sorte na próxima vez!",
+        "value": "0€"
+      }
+    },
+    "premium": {
+      "iphone": {
+        "name": "iPhone 16 Pro Max",
+        "description": "Prêmio ultra raro",
+        "value": "1299€"
+      },
+      "game": {
+        "name": "Jogo AAA",
+        "description": "Chave digital aleatória de jogo premium (valor entre 20€ e 80€)",
+        "value": "20-80€"
+      },
+      "subscription": {
+        "name": "Assinatura Premium",
+        "description": "3 meses de Game Pass, Spotify ou Nitro",
+        "value": "30€"
+      },
+      "voucher": {
+        "name": "Voucher 10€",
+        "description": "Voucher no valor de 10€",
+        "value": "10€"
+      },
+      "freeBox": {
+        "name": "Mystery Box Basic",
+        "description": "Nova rolagem grátis",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "Sem prêmio",
+        "description": "Mais sorte na próxima vez!",
+        "value": "0€"
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Mystery Box. Todos os direitos reservados."
+  }
+}

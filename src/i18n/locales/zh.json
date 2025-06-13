@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "神秘盒子"
+  },
+  "navigation": {
+    "basic": "基础版",
+    "premium": "高级版"
+  },
+  "hero": {
+    "title": "探索神秘盒子的魔力",
+    "subtitle": "每个盒子都是为您精心挑选的独家物品的独特惊喜",
+    "openBox": "开启盒子"
+  },
+  "openBox": {
+    "title": "打开您的神秘盒子",
+    "enterCode": "输入盒子代码",
+    "codePlaceholder": "在此输入您的盒子代码",
+    "openButton": "打开盒子",
+    "invalidCode": "无效代码。请检查后重试。",
+    "loading": "正在打开盒子...",
+    "error": "打开盒子时发生错误",
+    "success": "恭喜！您赢得了：",
+    "tryAgain": "尝试另一个盒子",
+    "wheel": {
+      "spinning": "轮盘旋转中...",
+      "ready": "准备领取您的奖品！"
+    },
+    "howToGet": {
+      "title": "如何获取代码：",
+      "steps": {
+        "1": "购买一个可用的盒子",
+        "2": "购买后自动接收代码",
+        "3": "联系我们的Telegram支持获取帮助"
+      }
+    }
+  },
+  "boxes": {
+    "basic": {
+      "name": "基础神秘盒子",
+      "description": "精彩的惊喜物品精选"
+    },
+    "premium": {
+      "name": "高级神秘盒子",
+      "description": "我们最好的高级物品精选"
+    },
+    "buyNow": "立即购买",
+    "telegramPlaceholder": "@你的电报"
+  },
+  "dailyPool": {
+    "title": "1000€每日奖池",
+    "subtitle": "立即参与，争夺每日奖品。开启的盒子越多，获奖机会越大！",
+    "chances": "每开启一个盒子，机会就会增加",
+    "topPlayers": "前5名玩家",
+    "spent": "已花费"
+  },
+  "prizes": {
+    "title": "可能获得的奖品",
+    "warning": "概率可能会有变化。超稀有奖品的抽中概率非常低。",
+    "reveal": {
+      "openAnother": "再次开启",
+      "share": "分享到Telegram",
+      "obtainPrize": "获得奖品"
+    },
+    "basic": {
+      "iphone": {
+        "name": "iPhone 16",
+        "description": "超稀有奖品",
+        "value": "999€"
+      },
+      "steamKey": {
+        "name": "神秘密钥",
+        "description": "Steam随机密钥（价值5€至50€）",
+        "value": "5-50€"
+      },
+      "serviceVoucher": {
+        "name": "服务代金券",
+        "description": "价值10€的代金券",
+        "value": "10€"
+      },
+      "gameVoucher": {
+        "name": "Steam/PlayStation/Xbox/Nintendo代金券",
+        "description": "您喜爱平台的5€信用额度",
+        "value": "5€"
+      },
+      "giftCard": {
+        "name": "礼品卡",
+        "description": "5€用于Google Play或App Store",
+        "value": "5€"
+      },
+      "freeBox": {
+        "name": "基础神秘盒子",
+        "description": "1次免费开启",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "未中奖",
+        "description": "下次好运！",
+        "value": "0€"
+      }
+    },
+    "premium": {
+      "iphone": {
+        "name": "iPhone 16 Pro Max",
+        "description": "超稀有奖品",
+        "value": "1299€"
+      },
+      "game": {
+        "name": "AAA游戏",
+        "description": "随机高级游戏密钥（价值20€至80€）",
+        "value": "20-80€"
+      },
+      "subscription": {
+        "name": "高级订阅",
+        "description": "3个月Game Pass、Spotify或Nitro",
+        "value": "30€"
+      },
+      "voucher": {
+        "name": "10€代金券",
+        "description": "价值10€的代金券",
+        "value": "10€"
+      },
+      "freeBox": {
+        "name": "基础神秘盒子",
+        "description": "免费开启",
+        "value": "5€"
+      },
+      "noPrize": {
+        "name": "未中奖",
+        "description": "下次好运！",
+        "value": "0€"
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2025 神秘盒子。保留所有权利。"
+  }
+}
